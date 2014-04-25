@@ -1,7 +1,6 @@
 {t:I Will Survive}
 {st:Gloria Gaynor}
 {col:2}
-
 [Am]First I was afraid I was [Dm]petrified,
 Kept thinkin' [G]I could never live
 without you [C]by my side.
@@ -18,6 +17,7 @@ I should have [Dm]made you leave your key
 If I had [E]known for just second
 you'd be [E7]back to bother me.
 
+{soc}
 Go on now [Am]go, walk out the [Dm]door,
 Just turn [G]around now,
 cause you're not [C]welcome anymore
@@ -25,18 +25,18 @@ cause you're not [C]welcome anymore
 to [Dm]hurt me with goodbyes?
 Did you think I'd [E]crumble?
 Did you think I'd [E7]lay down and die?
-{colb}
 
-{soc}
-{c:chorus}
 Oh no not [Am]I, I will [Dm]survive
 For as [G]long as I know how to love
 I [C]know I'll stay alive.
 I've got [F]all my life to live,
 I've got [Dm]all my love to give,
-And I'll [E]survive, I will [E7]survive - hey hey.
-[Am]  [Dm]  [G]  [C]  [F]  [Dm]  [E]
+And I'll [E]survive, I will [E7]survive
 {eoc}
+{colb}
+
+{c:break}
+[Am]  [Dm]  [G]  [C]  [F]  [Dm]  [E]
 
 It took [Am]all the strength I had not to [Dm]fall apart,
 Kept trying [G]hard to mend the pieces
@@ -55,6 +55,7 @@ And now I'm [E]savin' all my lovin'
 for [E7]someone who's lovin' me.
 
 {soc}
-{c:chorus}
-Oh no not I, I will survive...
+Go on now [Am]go, walk out the [Dm]door,
+Just turn [G]around now,
+cause you're not [C]welcome anymore...
 {eoc}

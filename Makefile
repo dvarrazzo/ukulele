@@ -3,8 +3,13 @@ PDFS=$(patsubst chords/%.cho,pdfs/%.pdf,$(CHORDS))
 CHORDLAB=chordlab
 STYLE=style/hammersmith.ini
 
+.PHONY: clean
+
 all: $(PDFS)
 
 pdfs/%.pdf: chords/%.cho
 	mkdir -p `dirname $@`
 	$(CHORDLAB) --style $(STYLE) --ukulele -o $@ $<
+
+clean:
+	rm -rf pdfs

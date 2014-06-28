@@ -1,5 +1,5 @@
 CHORDS=$(wildcard chords/*.cho) $(wildcard chords/*/*.cho)
-PDFS=$(patsubst chords/%.cho,pdfs/%.pdf,$(CHORDS)) $(patsubst chords/%.cho,pdfs/%-screen.pdf,$(CHORDS))
+PDFS=$(patsubst chords/%.cho,pdfs/%.pdf,$(CHORDS))
 CHORDLAB=chordlab/chordlab
 STYLE=style/hammersmith.ini
 
@@ -9,7 +9,7 @@ all: $(PDFS)
 
 pdfs/%.pdf: chords/%.cho $(STYLE)
 	mkdir -p `dirname $@`
-	$(CHORDLAB) --style $(STYLE) --ukulele -o $@ $<
+	$(CHORDLAB) -p 842x595 --style $(STYLE) --ukulele -o $@ $<
 
 pdfs/%-screen.pdf: chords/%.cho $(STYLE)
 	mkdir -p `dirname $@`

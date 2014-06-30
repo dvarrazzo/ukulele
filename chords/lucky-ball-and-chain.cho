@@ -1,6 +1,6 @@
 {title:Lucky Ball and Chain}
 {subtitle:They Might be Giants}
-{columns 2}
+{columns 3}
 I [G]lost my lucky [Em]ball and chain
 And [C]now she's four [D]years gone
 Just [G]five feet tall and [Em]sick of me
@@ -34,7 +34,6 @@ As [D]she walked [G]out the [Em]door [C] [D]
 
 {comment:Noise}
 
-{column_break}
 [G]I could shake my [Em]tiny fist
 And [C]swear I wasn't [D]wrong
 But [G]what's the sense in [Em]arguing
@@ -45,6 +44,7 @@ You [C]can't change your [D]fate
 And [G]when she told me [Em]off that day
 I [C]knew I'd lost my [G]home
 
+{colb}
 [D6]
 {start_of_chorus}
 Confi[C]dentially, I never told you [G]of her charms

@@ -1,0 +1,3 @@
+[submodule "chordlab"]
+	path = chordlab
+	url = https://github.com/dvarrazzo/chordlab.git

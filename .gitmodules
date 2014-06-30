@@ -1,0 +1,10 @@
+[submodule "chordlab"]
+	path = chordlab
+	url = https://github.com/spacehobo/chordlab.git
+	branch = fonts
+[submodule "style/chunk"]
+	path = style/chunk
+	url = https://github.com/theleagueof/chunk.git
+[submodule "style/prociono"]
+	path = style/prociono
+	url = https://github.com/theleagueof/prociono.git

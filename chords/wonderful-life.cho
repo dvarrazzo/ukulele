@@ -1,6 +1,6 @@
 {t:Wonderful Life}
 {st:Black}
-{col:2}
+{col:3}
 
 {c:Intro}
 [Em]   [D] [G]   [D] [Em]   [D] [G]    [D] [Em]
@@ -23,6 +23,7 @@ It's a [Em]wonderful, [C]wonderful [D]life
 No need to [Em]hide and [G]cry
 It's a [Em]wonderful, [C]wonderful [D]life
 {eoc}
+{colb}
 
 [Em]  Sun in your eyes
 The [D]heat is [G]in your hair
@@ -32,7 +33,6 @@ They seem to hate [D]you[Em]u
 And I need a friend [D]Oh, I [G]need a friend
 To make me hap[D]py[Em]y
 Not stand here [D]on my [G]own  [D][Em]
-{colb}
 
 {soc}
 Look at me stan[D]ding  [G]
@@ -47,6 +47,7 @@ It's a [Em]wonderful, [C]wonderful [D]life
 
 {c:Instrumental}
 [Em]   [D] [G]   [D] [Em]   [D] [G]    [D] [Em]
+{colb}
 
 And I need a friend [D]Oh, I [G]need a friend
 To make me hap[D]py[Em]y  Not [D]so [G]alone  [D][Em]

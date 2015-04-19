@@ -1,6 +1,7 @@
 {t:Personal Jesus}
 {st:Depeche Mode}
 {define:Em* base-fret 1 frets 0 4 0 2}
+{col:2}
 
 [Em*] [Em] [Em*] [Em]
 [Em]Your own, personal, Jesus
@@ -19,6 +20,7 @@ Take second best put me to the test
 [Am] [G]Reach out and touch faith [Em]
 [Am] [G]Reach out and touch faith [Em]
 {eoc}
+{colb}
 
 [Em]Your own, personal, Jesus
 [Em]Someone to hear your prayers, someone who [Am]cares  [G]

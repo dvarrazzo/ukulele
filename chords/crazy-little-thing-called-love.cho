@@ -1,5 +1,6 @@
 {t:Crazy Little Thing Called Love}
 {st:Queen}
+{col:2}
 {define:D* base-fret 5 frets 3 2 1 1}
 {define:A* base-fret 4 frets 3 1 2 1}
 {c:Intro}
@@ -22,6 +23,7 @@ then she [F]leaves me in a cool, cool sweat.
 [A*]    [G #]    [G (barre 4-2th fret)]
 [E]    [A]
 {eoc}
+{colb}
 
 I gotta be [D]cool, relax, get [G]hip, get [C]on my[G] tracks.
 Take a [D]back seat, hitch-hike, and[G] take a long ride on my [C]motor [G]bike,

@@ -9,7 +9,7 @@ all: $(PDFS)
 
 pdfs/%.pdf: chords/%.cho
 	mkdir -p `dirname $@`
-	$(CHORDLAB) --style $(STYLE) --ukulele -o $@ $<
+	$(CHORDLAB) -p 842x595 --style $(STYLE) --ukulele -o $@ $<
 
 clean:
 	rm -rf pdfs

@@ -1,5 +1,6 @@
 {t:Dream A Little Dream Of Me}
 {define:G base-fret 1 frets 4 2 3 2}
+{col:2}
 
 [C]Stars [B7]shining bright a[Ab]bove [G]you
 [C]Night [E7]breezes seem to [A]whisper I [A7]love you
@@ -15,6 +16,7 @@
 [A]Stars [Gbm]fading but [Bm]I linger [E7]on dear, [A]still [Gbm]craving your [Bm]kiss [E7]
 [A]I'm [Gbm]longing to [Bm]linger till [E7]dawn dear, [A]just [Gbm]saying [Ab]this  [G]
 {eoc}
+{colb}
 
 [C]Sweet [B7]dreams till sunbeams [Ab]find [G]you
 [C]Sweet [E7]dreams that leave all [A]worries far [A7]behind you

@@ -242,8 +242,8 @@ Bridge: C Dbm C Dbm Gm Dbm
 Radiohead - Weird Fishes/Arpeggi
 --------------------------------
 
-In the deepest ocean: Em7 F#m7 A Bm
-I get eaten: A6 GMaj7
+In the deepest ocean: Em7 (4435) F#m7 (6657) A (6454) Bm (0675)
+I get eaten: A6 (2424) GMaj7 (0222)
 I hit the bottom: Bm C Bm Asus4 GMaj7
 
 

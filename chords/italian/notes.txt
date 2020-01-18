@@ -69,6 +69,12 @@ Em A C G A
 Ho visto solo stelle buone: C Em C Em C Em A Em
 
 
+CSI - Del Mondo
+---------------
+
+Dm F Dm F Dm F Em Am
+
+
 CSI - In Viaggio
 ----------------
 
@@ -268,6 +274,17 @@ Verdena - Loniterp
 Sparirò: F#m A D F#m
 bridge: Bm E D A E
 E ti vedo qui: A G F#m G#m
+
+
+Verdena - Puzzle
+----------------
+
+T'investirò: Dm F Dm G
+Solo un mare nero: Dm C Am Ab
+E come s'infuria in me: Ab Gm
+Chiamami Nevruz: Cm D
+Gm Cm x2
+Poi ti siedi qui: G Cm
 
 
 Zucchero - Madre Dolcissima

@@ -94,6 +94,15 @@ Bm7 F# A E G D Em F7
 Welcome: G D Em Bm G D Em F#
 
 
+Editors - Munich
+----------------
+
+Capo 1. Shapes are:
+
+I'm glad... A F#m
+People are fragile things: D Bm A F#m A
+
+
 Everything but the Girl - Missing
 ---------------------------------
 
@@ -133,6 +142,13 @@ Gloria Gaynor - I Will Survive
 ------------------------------
 
 Am Dm G C F Bb E E7
+
+
+Kavinsky - Nightcall
+====================
+
+Am G F Dm
+F G Em F
 
 
 Lou Reed - Perfect Day
